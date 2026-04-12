@@ -211,7 +211,7 @@
         <div class="row text-center portal-links">
             <div class="col-4">
                 <a href="{{ route('army.login') }}">
-                    <i class="fas fa-shield-alt d-block mb-1"></i> Army
+                    <i class="fas fa-shield-alt d-block mb-1"></i> BD Army
                 </a>
             </div>
             <div class="col-4">
